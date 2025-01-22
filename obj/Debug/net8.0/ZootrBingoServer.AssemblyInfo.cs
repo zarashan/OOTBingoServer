@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZootrBingoServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1344a0c0211bfc5cfcf983bf68be74a1f30c9078")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZootrBingoServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZootrBingoServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
