@@ -1,7 +1,10 @@
+using Newtonsoft.Json;
+
 namespace ZootrBingoServer;
 
 public class BingoBoard
 {
+    [JsonIgnore]
     public List<string> ConnectedUsers;
     public string Password;
     public SquareItem[] SquareItems;
